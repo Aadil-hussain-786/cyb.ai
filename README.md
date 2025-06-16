@@ -1,7 +1,5 @@
 # Secure AI Agent
 
-![Secure AI Agent Demo](demo.gif) *(example gif placeholder)*
-
 A highly intelligent, cross-platform security agent with TOR integration, AI threat analysis, and both GUI/CLI interfaces.
 
 ## Features
